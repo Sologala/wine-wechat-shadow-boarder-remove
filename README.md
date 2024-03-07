@@ -39,3 +39,6 @@ When you launch  `WechatFix`, it will automatically launch `fix_wechat` to  proc
 rm -rf /opt/fix_wechat/
 rm -rf ~/.local/share/applications/WeChatFixBorder.desktop
 ```
+
+# REF
+> https://12101111.github.io/block-wine-wechat-black-window/
