@@ -1,8 +1,7 @@
 # wine-wechat-shadow-boarder-remove
 A tool to remove wine wechat shadow border
 
- 
-The wechat-shader-boarder remain in screen after wechat loss focus.
+The wechat-shadow-boarder remain in screen after wechat loss focus.
 
 ![](./resource/image-20240307121638804.jpg)
 
