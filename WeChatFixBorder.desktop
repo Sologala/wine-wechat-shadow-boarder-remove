@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WechatFix
+Exec=/bin/sh -c 'env WINEPREFIX="/home/wen/.wine" wine C:\\\\users\\\\Public\\\\桌面\\\\微信.lnk; /opt/fix_wechat/bin/fix_wechat'
+Type=Application
+StartupNotify=true
+Path=/home/wen/.wine/dosdevices/c:/Program Files/Tencent/WeChat
+Icon=E282_WeChat.0
+StartupWMClass=wechat.exe
